@@ -6,7 +6,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ["Inter var, sans-serif"],
+      inter: ["Inter", "sans-serif"],
     },
     extend: {},
   },

@@ -1,0 +1,15 @@
+{
+  "metaData": {
+    "title": "Ali Arain | Portfolio",
+    "description": "Ali Arain Portfolio, Full Stack Developer, Writer.",
+    "author": "AliArain",
+    "keyword": "aliarain, flutter, source code, minimal, react, nextjs, blog, template",
+    "ogImage": "https://qurno-nextjs.vercel.app/images/ogimage.jpg"
+  },
+  "baseURL": "https://aliarainp.vercel.app/",
+  "logo": "/images/logo.png",
+  "logoText": "Ali Arain",
+  "favicon": "/images/favicon.png",
+  "postPerPage": 6,
+  "copyright": "© 2022 Ali Arain. All rights reserved."
+}
